@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_TUnder_VNeckBlue",
+    "path": "sprites/spr_TUnder_VNeckBlue/spr_TUnder_VNeckBlue.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -21,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Torso-Under",
+    "path": "folders/Objects/Torso-Under.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_TUnder_VNeck_Blue",

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "bboxMode": 0,
   "collisionKind": 1,
@@ -77,3 +78,5 @@
   "tags": [],
   "resourceType": "GMSprite",
 }
+=======
+>>>>>>> main

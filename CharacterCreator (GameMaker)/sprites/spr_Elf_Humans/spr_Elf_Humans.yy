@@ -70,7 +70,7 @@
   "nineSlice": null,
   "parent": {
     "name": "Ears",
-    "path": "folders/Sprites/Ears.yy",
+    "path": "folders/Sprites/Eyebrows/Ears.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_Elf_Humans",

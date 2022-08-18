@@ -57,7 +57,7 @@
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Body Types.yy","order":1,"resourceVersion":"1.0","name":"Body Types","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Sprites/Ears.yy","order":3,"resourceVersion":"1.0","name":"Ears","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Eyebrows/Ears.yy","order":2,"resourceVersion":"1.0","name":"Ears","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Eyebrows.yy","order":4,"resourceVersion":"1.0","name":"Eyebrows","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Eyes.yy","order":5,"resourceVersion":"1.0","name":"Eyes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Mouth.yy","order":6,"resourceVersion":"1.0","name":"Mouth","tags":[],"resourceType":"GMFolder",},

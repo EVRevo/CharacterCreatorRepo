@@ -1,10 +1,17 @@
 {
   "resources": [
+    {"id":{"name":"spr_Eyebrows_Thin","path":"sprites/spr_Eyebrows_Thin/spr_Eyebrows_Thin.yy",},"order":1,},
     {"id":{"name":"obj_Start","path":"objects/obj_Start/obj_Start.yy",},"order":0,},
+    {"id":{"name":"spr_Hair_Short","path":"sprites/spr_Hair_Short/spr_Hair_Short.yy",},"order":1,},
     {"id":{"name":"spr_Eyebrows_Thick","path":"sprites/spr_Eyebrows_Thick/spr_Eyebrows_Thick.yy",},"order":0,},
+    {"id":{"name":"spr_Mouth_Closed","path":"sprites/spr_Mouth_Closed/spr_Mouth_Closed.yy",},"order":0,},
+    {"id":{"name":"spr_Eyes_Open","path":"sprites/spr_Eyes_Open/spr_Eyes_Open.yy",},"order":1,},
+    {"id":{"name":"spr_Eyes_Tired","path":"sprites/spr_Eyes_Tired/spr_Eyes_Tired.yy",},"order":2,},
     {"id":{"name":"r_startMenu","path":"rooms/r_startMenu/r_startMenu.yy",},"order":1,},
     {"id":{"name":"spr_Body_Plain","path":"sprites/spr_Body_Plain/spr_Body_Plain.yy",},"order":0,},
+    {"id":{"name":"spr_Eyes_Bored","path":"sprites/spr_Eyes_Bored/spr_Eyes_Bored.yy",},"order":0,},
     {"id":{"name":"spr_Ears_Human","path":"sprites/spr_Ears_Human/spr_Ears_Human.yy",},"order":1,},
+    {"id":{"name":"spr_Hair_Medium","path":"sprites/spr_Hair_Medium/spr_Hair_Medium.yy",},"order":0,},
     {"id":{"name":"spr_Start","path":"sprites/spr_Start/spr_Start.yy",},"order":11,},
     {"id":{"name":"spr_Ears_Elf","path":"sprites/spr_Ears_Elf/spr_Ears_Elf.yy",},"order":0,},
     {"id":{"name":"r_CharacterCreation","path":"rooms/r_CharacterCreation/r_CharacterCreation.yy",},"order":0,},

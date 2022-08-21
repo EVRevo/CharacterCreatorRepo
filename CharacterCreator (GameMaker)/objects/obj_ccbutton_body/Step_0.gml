@@ -7,4 +7,5 @@ menuY = 65
 if (active == true)
 {
 	instance_create_layer(menuX, menuY, "Layer_Thumbnail", obj_Grid_BodyType);
+	active = false;
 }

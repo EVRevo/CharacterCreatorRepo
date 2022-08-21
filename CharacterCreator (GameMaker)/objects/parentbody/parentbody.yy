@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_TN_BodyType2",
-    "path": "sprites/spr_TN_BodyType2/spr_TN_BodyType2.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
@@ -22,16 +19,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Thumbnails",
-    "path": "folders/Objects/UI/Buttons/Thumbnails.yy",
+    "name": "Body Type",
+    "path": "folders/Objects/Body Type.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_TN_BodyType2",
+  "name": "parentBody",
   "tags": [],
   "resourceType": "GMObject",
 }

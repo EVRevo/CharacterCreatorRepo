@@ -1,6 +1,4 @@
 /// @description What Happens when you click the button
 
-if (active == false)
-{
-	active = true;
-}
+global.body = 2;
+global.draw = true; 

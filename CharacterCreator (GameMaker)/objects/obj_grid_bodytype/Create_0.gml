@@ -9,4 +9,4 @@ grid[0] = obj_TN_BodyType;
 grid[1] = obj_TN_BodyType1;
 grid[2] = obj_TN_BodyType2;
 
-draw = false;
+draw = true;

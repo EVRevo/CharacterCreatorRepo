@@ -29,8 +29,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Thumbnails",
-    "path": "folders/Objects/UI/Buttons/Thumbnails.yy",
+    "name": "Body Types",
+    "path": "folders/Objects/UI/Buttons/Thumbnails/Body Types.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_TN_BodyType",

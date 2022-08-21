@@ -1,9 +1,9 @@
 /// @description Variables of the Grid
 
 //This "Grid" is to populate thumbnails. 
-#macro Grid_Slots 21
+#macro Grid_Slots_Body 21
 rowLength = 3; 
-grid = array_create(Grid_Slots, -1);
+grid = array_create(Grid_Slots_Body, -1);
 randomize();
 grid[0] = obj_TN_BodyType;
 grid[1] = obj_TN_BodyType1;

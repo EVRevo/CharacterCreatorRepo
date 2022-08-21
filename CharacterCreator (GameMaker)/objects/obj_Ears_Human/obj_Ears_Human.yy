@@ -1,10 +1,11 @@
 {
   "spriteId": {
-    "name": "spr_Elf_Humans",
-    "path": "sprites/spr_Elf_Humans/spr_Elf_Humans.yy",
+    "name": "spr_Ears_Human",
+    "path": "sprites/spr_Ears_Human/spr_Ears_Human.yy",
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,

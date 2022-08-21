@@ -3,14 +3,14 @@
 //Variables for Ease
 wSize = 230;
 hSize = 176.25; //DO NOT TOUCH THIS VARIABLE SO HELP ME GOD
-wPadd = 27;
-hPadd = 30;
-menuX = 1760;
+wPadd = 142;
+hPadd = 75;
+menuX = 96;
 menuY = 65;
 
 if (draw == true)
 {
-	for (var i = 0; i < Grid_Slots_Body; i += 1)
+	for (var i = 0; i < Grid_Slots_Buttons; i += 1)
 	{
 		var xx = x + (i mod rowLength) * wSize + wPadd;
 		var yy = y + (i div rowLength) * hSize + hPadd;

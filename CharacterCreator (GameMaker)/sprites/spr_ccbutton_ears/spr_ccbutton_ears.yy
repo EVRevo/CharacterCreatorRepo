@@ -24,13 +24,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","path":"sprites/spr_CCButton_Body/spr_CCButton_Body.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","path":"sprites/spr_CCButton_Body/spr_CCButton_Body.yy",},"LayerId":{"name":"2be13bd3-66d7-4519-a237-afb806570f09","path":"sprites/spr_CCButton_Body/spr_CCButton_Body.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","path":"sprites/spr_CCButton_Body/spr_CCButton_Body.yy",},"LayerId":{"name":"906eef9f-ac6d-4a8e-9d33-6b6216d8d55c","path":"sprites/spr_CCButton_Body/spr_CCButton_Body.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CCButton_Body","path":"sprites/spr_CCButton_Body/spr_CCButton_Body.yy",},"resourceVersion":"1.0","name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","path":"sprites/spr_CCButton_Ears/spr_CCButton_Ears.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","path":"sprites/spr_CCButton_Ears/spr_CCButton_Ears.yy",},"LayerId":{"name":"906eef9f-ac6d-4a8e-9d33-6b6216d8d55c","path":"sprites/spr_CCButton_Ears/spr_CCButton_Ears.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","path":"sprites/spr_CCButton_Ears/spr_CCButton_Ears.yy",},"LayerId":{"name":"b0d64c8d-bfdc-4427-9693-d4b34f708a13","path":"sprites/spr_CCButton_Ears/spr_CCButton_Ears.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CCButton_Ears","path":"sprites/spr_CCButton_Ears/spr_CCButton_Ears.yy",},"resourceVersion":"1.0","name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_CCButton_Body","path":"sprites/spr_CCButton_Body/spr_CCButton_Body.yy",},
+    "spriteId": {"name":"spr_CCButton_Ears","path":"sprites/spr_CCButton_Ears/spr_CCButton_Ears.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -42,7 +42,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"c3806e06-83f7-445c-a22a-3b16aaf69b45","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","path":"sprites/spr_CCButton_Body/spr_CCButton_Body.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"c2e60b50-10fb-4635-bb4d-0910386d17b9","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","path":"sprites/spr_CCButton_Ears/spr_CCButton_Ears.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -59,14 +59,14 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_CCButton_Body","path":"sprites/spr_CCButton_Body/spr_CCButton_Body.yy",},
+    "parent": {"name":"spr_CCButton_Ears","path":"sprites/spr_CCButton_Ears/spr_CCButton_Ears.yy",},
     "resourceVersion": "1.4",
-    "name": "spr_CCButton_Body",
+    "name": "spr_CCButton_Ears",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"2be13bd3-66d7-4519-a237-afb806570f09","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"Layer 1","resourceVersion":"1.0","name":"b0d64c8d-bfdc-4427-9693-d4b34f708a13","tags":[],"resourceType":"GMImageLayer",},
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"906eef9f-ac6d-4a8e-9d33-6b6216d8d55c","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
@@ -75,7 +75,7 @@
     "path": "folders/Sprites/UI/Buttons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_CCButton_Body",
+  "name": "spr_CCButton_Ears",
   "tags": [],
   "resourceType": "GMSprite",
 }

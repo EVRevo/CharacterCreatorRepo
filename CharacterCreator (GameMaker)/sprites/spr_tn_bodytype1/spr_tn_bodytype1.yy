@@ -71,8 +71,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Thumbnails",
-    "path": "folders/Sprites/UI/Buttons/Thumbnails.yy",
+    "name": "Body Types",
+    "path": "folders/Sprites/UI/Buttons/Thumbnails/Body Types.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_TN_BodyType1",

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_TN_BodyType2",
-    "path": "sprites/spr_TN_BodyType2/spr_TN_BodyType2.yy",
+    "name": "spr_TN_Ears_Elf",
+    "path": "sprites/spr_TN_Ears_Elf/spr_TN_Ears_Elf.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,16 +22,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":7,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Body Types",
-    "path": "folders/Objects/UI/Buttons/Thumbnails/Body Types.yy",
+    "name": "Ears",
+    "path": "folders/Objects/UI/Buttons/Thumbnails/Ears.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_TN_BodyType2",
+  "name": "obj_TN_Ears_Elf",
   "tags": [],
   "resourceType": "GMObject",
 }

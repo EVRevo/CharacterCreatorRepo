@@ -5,7 +5,10 @@
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "parentGrids",
+    "path": "objects/parentGrids/parentGrids.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,

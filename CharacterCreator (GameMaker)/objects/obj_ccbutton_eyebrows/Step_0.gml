@@ -7,6 +7,6 @@ menuY = 65
 if (active == true)
 {
 	instance_deactivate_region(1760,65,704,1248,true,true);
-	instance_create_layer(menuX, menuY, "Layer_Thumbnail", obj_Grid_Ears);
+	instance_create_layer(menuX, menuY, "Layer_Thumbnail", obj_Grid_Eyebrows);
 	active = false;
 }

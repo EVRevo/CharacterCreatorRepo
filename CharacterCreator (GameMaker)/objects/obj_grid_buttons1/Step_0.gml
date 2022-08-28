@@ -10,11 +10,11 @@ menuY = 65;
 
 if (draw == true)
 {
+	instance_create_layer(menuX, menuY, "Layer_UI", obj_CCThumbnails);
 	for (var i = 0; i < Grid_Slots_Buttons; i += 1)
 	{
 		var xx = x + (i mod rowLength) * wSize + wPadd;
 		var yy = y + (i div rowLength) * hSize + hPadd;
-		instance_create_layer(menuX, menuY, "Layer_UI", obj_CCThumbnails);
 		if (grid[i] != -1)
 		{
 			instance_create_layer(xx,yy,"Layer_Thumbnail", grid[i]);

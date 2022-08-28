@@ -5,7 +5,7 @@
 rowLength = 1; 
 grid = array_create(Grid_Slots_Buttons, -1);
 randomize();
-grid[0] = obj_CCButton_Body;
+grid[0] = obj_CCButton_Ears;
 grid[1] = obj_CCButton_Ears;
 grid[2] = obj_CCButton_Body;
 

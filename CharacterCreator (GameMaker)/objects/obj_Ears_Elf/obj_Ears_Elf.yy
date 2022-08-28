@@ -8,7 +8,10 @@
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_parentEars",
+    "path": "objects/obj_parentEars/obj_parentEars.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,

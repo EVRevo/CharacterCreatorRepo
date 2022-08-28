@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_CCButton_Eyebrows",
+    "path": "sprites/spr_CCButton_Eyebrows/spr_CCButton_Eyebrows.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
@@ -20,15 +23,17 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":7,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Ears",
-    "path": "folders/Objects/Ears.yy",
+    "name": "Buttons",
+    "path": "folders/Objects/UI/Buttons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "parentEars",
+  "name": "obj_CCButton_Eyebrows",
   "tags": [],
   "resourceType": "GMObject",
 }

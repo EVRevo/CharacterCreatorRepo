@@ -22,11 +22,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Body Type",
+    "path": "folders/Objects/Body Type.yy",
   },
   "resourceVersion": "1.0",
-  "name": "parentGrids",
+  "name": "obj_parentBody",
   "tags": [],
   "resourceType": "GMObject",
 }

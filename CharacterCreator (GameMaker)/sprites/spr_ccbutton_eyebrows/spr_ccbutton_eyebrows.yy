@@ -24,13 +24,13 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","path":"sprites/spr_CCButton_Ears/spr_CCButton_Ears.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","path":"sprites/spr_CCButton_Ears/spr_CCButton_Ears.yy",},"LayerId":{"name":"b0d64c8d-bfdc-4427-9693-d4b34f708a13","path":"sprites/spr_CCButton_Ears/spr_CCButton_Ears.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-        {"FrameId":{"name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","path":"sprites/spr_CCButton_Ears/spr_CCButton_Ears.yy",},"LayerId":{"name":"906eef9f-ac6d-4a8e-9d33-6b6216d8d55c","path":"sprites/spr_CCButton_Ears/spr_CCButton_Ears.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_CCButton_Ears","path":"sprites/spr_CCButton_Ears/spr_CCButton_Ears.yy",},"resourceVersion":"1.0","name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","path":"sprites/spr_CCButton_Eyebrows/spr_CCButton_Eyebrows.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","path":"sprites/spr_CCButton_Eyebrows/spr_CCButton_Eyebrows.yy",},"LayerId":{"name":"b0d64c8d-bfdc-4427-9693-d4b34f708a13","path":"sprites/spr_CCButton_Eyebrows/spr_CCButton_Eyebrows.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+        {"FrameId":{"name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","path":"sprites/spr_CCButton_Eyebrows/spr_CCButton_Eyebrows.yy",},"LayerId":{"name":"906eef9f-ac6d-4a8e-9d33-6b6216d8d55c","path":"sprites/spr_CCButton_Eyebrows/spr_CCButton_Eyebrows.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_CCButton_Eyebrows","path":"sprites/spr_CCButton_Eyebrows/spr_CCButton_Eyebrows.yy",},"resourceVersion":"1.0","name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_CCButton_Ears","path":"sprites/spr_CCButton_Ears/spr_CCButton_Ears.yy",},
+    "spriteId": {"name":"spr_CCButton_Eyebrows","path":"sprites/spr_CCButton_Eyebrows/spr_CCButton_Eyebrows.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -42,7 +42,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"MomentsEventKeyframe",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"c2e60b50-10fb-4635-bb4d-0910386d17b9","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","path":"sprites/spr_CCButton_Ears/spr_CCButton_Ears.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
+            {"id":"e6e7cbc0-eb2a-4d85-b06d-9bc426c21bbb","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f7ce1925-c311-4fc0-a874-e89e543bc8a7","path":"sprites/spr_CCButton_Eyebrows/spr_CCButton_Eyebrows.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe`1","elementType":"SpriteFrameKeyframe",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore`1","elementType":"SpriteFrameKeyframe",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -59,9 +59,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_CCButton_Ears","path":"sprites/spr_CCButton_Ears/spr_CCButton_Ears.yy",},
+    "parent": {"name":"spr_CCButton_Eyebrows","path":"sprites/spr_CCButton_Eyebrows/spr_CCButton_Eyebrows.yy",},
     "resourceVersion": "1.4",
-    "name": "spr_CCButton_Ears",
+    "name": "spr_CCButton_Eyebrows",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -75,7 +75,7 @@
     "path": "folders/Sprites/UI/Buttons.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_CCButton_Ears",
+  "name": "spr_CCButton_Eyebrows",
   "tags": [],
   "resourceType": "GMSprite",
 }

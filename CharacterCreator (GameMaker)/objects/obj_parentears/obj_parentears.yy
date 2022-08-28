@@ -1,17 +1,11 @@
 {
-  "spriteId": {
-    "name": "spr_Ears_Human",
-    "path": "sprites/spr_Ears_Human/spr_Ears_Human.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "obj_parentEars",
-    "path": "objects/obj_parentEars/obj_parentEars.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -32,7 +26,7 @@
     "path": "folders/Objects/Ears.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_Ears_Human",
+  "name": "obj_parentEars",
   "tags": [],
   "resourceType": "GMObject",
 }

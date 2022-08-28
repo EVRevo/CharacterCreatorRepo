@@ -9,8 +9,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "parentBody",
-    "path": "objects/parentBody/parentBody.yy",
+    "name": "obj_parentBody",
+    "path": "objects/obj_parentBody/obj_parentBody.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,

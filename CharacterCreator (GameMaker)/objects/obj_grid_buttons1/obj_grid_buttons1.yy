@@ -5,7 +5,10 @@
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_parentButton",
+    "path": "objects/obj_parentButton/obj_parentButton.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,

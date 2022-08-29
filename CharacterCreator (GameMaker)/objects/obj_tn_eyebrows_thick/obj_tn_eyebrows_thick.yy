@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_TN_Ears_Elf",
-    "path": "sprites/spr_TN_Ears_Elf/spr_TN_Ears_Elf.yy",
+    "name": "spr_TN_Eyebrows_Thick",
+    "path": "sprites/spr_TN_Eyebrows_Thick/spr_TN_Eyebrows_Thick.yy",
   },
   "solid": false,
   "visible": true,
@@ -29,8 +29,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Ears",
-    "path": "folders/Objects/UI/Buttons/Thumbnails/Ears.yy",
+    "name": "Eyebrows",
+    "path": "folders/Objects/UI/Buttons/Thumbnails/Eyebrows.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_TN_Eyebrows_Thick",

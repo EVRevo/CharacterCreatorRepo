@@ -18,7 +18,6 @@ if(!instance_exists(obj_pageForward))
 //Creating Parents
 if(global.parent == false)
 {
-	
 	if(!instance_exists(obj_parentButton))
 	{
 		instance_create_layer(x,y,"Layer_UI", obj_parentButton); //creates Parent Button
@@ -47,21 +46,19 @@ if(global.parent == false)
 	{
 		instance_create_layer(x,y,"Layer_UI", obj_parentMouth); //creates Parent Mouth
 	}
+	if(!instance_exists(obj_parentNose))
+	{
+		instance_create_layer(x,y,"Layer_UI", obj_parentNose); //creates Parent Nose
+	}
+	if(!instance_exists(obj_parentPants))
+	{
+		instance_create_layer(x,y,"Layer_UI", obj_parentPants); //creates Parent Pants
+	}
+	if(!instance_exists(obj_parentTUnder))
+	{
+		instance_create_layer(x,y,"Layer_UI", obj_parentTUnder); //creates Parent TUnder
+	}
 	global.parent = true;
-}
-
-if(global.draw == true && global.page == 1) //Creates Page 1 buttons
-{
-	instance_destroy(obj_parentButton);
-	instance_create_layer(x,y,"Layer_UI", obj_Grid_Buttons1);
-	global.parent = false;
-}
-
-if(global.draw == true && global.page == 2) //Creates Page 2 buttons
-{
-	instance_destroy(obj_parentButton);
-	instance_create_layer(x,y,"Layer_UI", obj_Grid_Buttons2);
-	global.parent = false;
 }
 
 //Body Types
@@ -201,6 +198,72 @@ if(global.mouth == 3)
 {
 	instance_destroy(obj_parentMouth);
 	instance_create_layer(midX, midY, "Layer_Mouth", obj_Mouth_Smile);
+	global.draw = false;
+	global.parent = false;
+}
+
+//Noses
+//**Bridge Nose**
+if(global.nose == 1)
+{
+	instance_destroy(obj_parentNose);
+	instance_create_layer(midX, midY, "Layer_Nose", obj_Nose_Bridge);
+	global.draw = false;
+	global.parent = false;
+}
+
+//**Pearl Nose**
+if(global.nose == 2)
+{
+	instance_destroy(obj_parentNose);
+	instance_create_layer(midX, midY, "Layer_Nose", obj_Nose_Pearl);
+	global.draw = false;
+	global.parent = false;
+}
+
+//**Sloped Nose**
+if(global.nose == 3)
+{
+	instance_destroy(obj_parentNose);
+	instance_create_layer(midX, midY, "Layer_Nose", obj_Nose_Sloped);
+	global.draw = false;
+	global.parent = false;
+}
+
+//Pants
+//**Brown Pants**
+if(global.pants == 1)
+{
+	instance_destroy(obj_parentPants);
+	instance_create_layer(midX, midY, "Layer_Nose", obj_Pants_Brown);
+	global.draw = false;
+	global.parent = false;
+}
+
+//**Jeans Pants**
+if(global.pants == 2)
+{
+	instance_destroy(obj_parentPants);
+	instance_create_layer(midX, midY, "Layer_Nose", obj_Pants_Jeans);
+	global.draw = false;
+	global.parent = false;
+}
+
+//Torso-Under
+//**Banana Shirt**
+if(global.tUnder == 1)
+{
+	instance_destroy(obj_parentTUnder);
+	instance_create_layer(midX, midY, "Layer_Nose", obj_TUnder_BananaShirt);
+	global.draw = false;
+	global.parent = false;
+}
+
+//**Blue V-Neck**
+if(global.tUnder == 2)
+{
+	instance_destroy(obj_parentTUnder);
+	instance_create_layer(midX, midY, "Layer_Nose", obj_TUnder_VNeckBlue);
 	global.draw = false;
 	global.parent = false;
 }

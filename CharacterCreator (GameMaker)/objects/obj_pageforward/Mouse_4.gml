@@ -1,4 +1,4 @@
 /// @description CLicK
 
 global.page ++;
-global.draw = true;
+obj_Page.draw = true;

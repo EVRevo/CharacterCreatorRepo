@@ -11,3 +11,6 @@ global.eyebrows = 0;
 global.eyes = 0;
 global.hair = 0;
 global.mouth = 0;
+global.nose = 0;
+global.pants = 0;
+global.tUnder = 0;
